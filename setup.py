@@ -7,10 +7,10 @@ setup(
   url='https://github.com/smazzanti/mlops',
   author='Samuele Mazzanti',
   author_email='mazzanti.sam@gmail.com',
-  license='GNU',
+  #license='GNU',
   packages=['mlops'],
-  install_requires=[
-    'numpy>=1.18.1'
-  ],
-  zip_safe=False
+  #install_requires=[
+  #  'numpy>=1.18.1'
+  #],
+  #zip_safe=False
 )
